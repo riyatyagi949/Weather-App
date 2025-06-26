@@ -5,8 +5,11 @@ A dynamic Weather App built with HTML, CSS, and JavaScript, using the OpenWeathe
 # Features
 
 ✅ Fetch real-time weather data from OpenWeatherMap API.
-✅ Display current temperature, humidity, and weather conditions.☁️  
+
+✅ Display current temperature, humidity, and weather conditions.
+
 ✅ Show city-specific time.
+
 ✅ Responsive design for mobile and desktop.
 
 #  Tech Stack
@@ -36,7 +39,11 @@ cd Weather-App
 
 # 🛠️ Future Enhancements
 
-🚀 Add a search history feature.  🚀 Support for multiple languages.  🚀 Change background color accoridng to the weather conditions.
+🚀 Add a search history feature. 
+
+🚀 Support for multiple languages. 
+
+🚀 Change background color accoridng to the weather conditions.
 
 
 # Connect with Me
