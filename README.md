@@ -27,11 +27,11 @@ OpenWeatherMap API
 
 1) Clone the repository:
 
-git clone https://github.com/your-username/Weather-App.git
+         git clone https://github.com/your-username/Weather-App.git
 
 2) Navigate to the project folder:
 
-cd Weather-App
+        cd Weather-App
 
 3) Open index.html in your browser.
 
