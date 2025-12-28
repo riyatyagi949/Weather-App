@@ -48,7 +48,7 @@ OpenWeatherMap API
 
 # Connect with Me
 
- GitHub: @riyatyag 
+ GitHub: @riyatyag949 
  
 Email:tyagiriya517@gmail.com
 
